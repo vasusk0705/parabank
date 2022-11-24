@@ -1,6 +1,6 @@
 // plugin={"pretty","html:target/myresults"}
 
-package org.vas;
+package org.vas1;
 
 
 import io.cucumber.testng.AbstractTestNGCucumberTests;
